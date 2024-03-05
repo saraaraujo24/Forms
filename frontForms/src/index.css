@@ -1,0 +1,11 @@
+body {
+ align-items: center;
+ justify-content: center;
+ margin-left: 35% ;
+ background-color: #E9B9EA;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
